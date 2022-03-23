@@ -7,7 +7,9 @@ numpy absolute beginners
 
 * 03-numpy_absolute_beginners.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/numpy-beginners/blob/main/03-numpy_absolute_beginners.ipynb) 
 
-* 05-10-sort-reshape-stack-split.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/numpy-beginners/blob/main/05-10-sort-reshape-stack-split.ipynb) 
+* 05-08-sort-reshape-newaxis.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/numpy-beginners/blob/main/05-08-sort-reshape-newaxis.ipynb) 
+
+* 09-10-indexing-slicing-stack-split-view-copy.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/numpy-beginners/blob/main/09-10-indexing-slicing-stack-split-view-copy.ipynb) 
 
 * 11-15-operations-broadcasting-random.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/numpy-beginners/blob/main/11-15-operations-broadcasting-random.ipynb) 
 
